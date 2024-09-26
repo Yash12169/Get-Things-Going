@@ -261,3 +261,4 @@ const Todo = ({ removeElement, handleCheck, id, children, checked, time }) => {
     </motion.div>
   );
 };
+

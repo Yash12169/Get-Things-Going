@@ -1,12 +1,18 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Dummy from './components/dummy/Dummy';
 import { VanishList } from './components/hero/Hero';
+// import { ThemeProvider } from './context/ThemeContext';
 
 function App() {
   return (
-   <>
-    <VanishList/>
-   </>
+  //  <ThemeProvider>
+      // <Dummy/>
+      <>
+      {/* <Dummy/> */}
+      <VanishList/>
+      </>
+  //  </ThemeProvider>
   );
 }
 
