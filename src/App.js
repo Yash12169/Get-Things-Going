@@ -1,18 +1,12 @@
+import "./App.css";
 
-import './App.css';
-import Dummy from './components/dummy/Dummy';
-import { VanishList } from './components/hero/Hero';
-// import { ThemeProvider } from './context/ThemeContext';
+import { VanishList } from "./components/hero/Hero";
 
 function App() {
   return (
-  //  <ThemeProvider>
-      // <Dummy/>
-      <>
-      {/* <Dummy/> */}
-      <VanishList/>
-      </>
-  //  </ThemeProvider>
+    <>
+      <VanishList />
+    </>
   );
 }
 
