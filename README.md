@@ -47,11 +47,4 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-
-- Thanks to [React](https://reactjs.org/) for the fantastic framework.
-- Special thanks to [Tailwind CSS](https://tailwindcss.com/) and [Framer Motion](https://www.framer.com/motion/) for their amazing libraries.
